@@ -1,0 +1,243 @@
+.resume-wrapper {
+    max-width: 1920px;
+    width: 100%;
+    height: 750px;
+    display: flex;
+    justify-content: center;
+}
+.icon {
+    width: 15px;
+    height: 15px;
+}
+.my-pic {
+    width: 50px;
+    height: 75px;
+    border-radius: 3px;
+}
+.my-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+}
+.title-contact {
+    text-transform: uppercase;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    background: #00315e;
+    color: #ffffff;
+}
+.sidebar {
+ height: 100%;
+ width: 17%;
+ background: #004078;
+ }
+.phone {
+font-family: sans-serif;
+font-size: 12px;
+color: #9ebcd0;
+padding-left: 10px;
+}
+.email {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #9ebcd0;
+    padding-left: 10px;
+}
+.email-box {
+    margin-left: 10px;
+}
+.contacts {
+    margin-bottom: 30px;
+}
+
+.title-languages {
+    text-transform: uppercase;
+    font-size: 18px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    padding-left: 10px;
+    background: #00315e;
+    color: #ffffff;
+}
+.dot-light {
+    background: #ffffff;
+    border-radius: 50%;
+    width: 11px;
+    height: 11px;
+    margin: 0 3px;
+}
+.dot-dark {
+    background: #0074a2;
+    border-radius: 50%;
+    margin: 0 3px;
+    width: 11px;
+    height: 11px;
+}
+.languages {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+   }
+.language {
+   width: 100%;
+   max-width: 80px; 
+   font-family: sans-serif;
+   font-size: 12px;
+   color: #9ebcd0;
+   padding-left: 10px; 
+   text-transform: uppercase;
+   margin-bottom: 7px;
+}
+.title-skills {
+    text-transform: uppercase;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    background: #00315e;
+    color: #ffffff;
+}
+.skills-list {
+    color: #9ebcd0;
+    line-height: 1.7;
+}
+.header-details{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.main-section {
+    width: 40%;
+    height: 100%;
+    background: azure;
+}
+.name {
+    text-transform: uppercase;
+    font-size: 26px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    color: #292929;
+    
+}
+.job-name {
+    text-transform: uppercase;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    color: #292929;
+}
+.geo,
+.age {
+width: 15px;
+height: 15px;
+margin-right: 20px;
+}
+.header-details {
+    margin-left: 15px;
+    text-transform: capitalize;
+}
+.adres {
+    margin-right: 15px;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.my-age {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.about-myself-header {
+    color: #005789;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    }
+.line1 {
+    background: #005789;
+    width: 64%;
+    height: 1.2px;
+    margin-left: 10px;
+    }
+    .my-presentation {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .text {
+     display: flex;
+     text-align:justify;
+     margin-left: 10px;
+     text-indent: 30px;
+     line-height: 1.7;
+     font-size: 14px;
+     font-family: sans-serif;
+    }
+    .education-description {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .line2 {
+        background: #005789;
+        width: 71%;
+        height: 1.8px;
+        margin-left: 10px;
+        }
+        .university1,
+        .university2 {
+        margin-left: 10px;
+        font-family: sans-serif;
+        font-size: 14px;
+        text-transform: capitalize;
+         }    
+         .university1 {
+             margin-bottom: 60px;
+         }
+         .period {
+            margin-right: 80px;
+         }
+         .my-education {
+             margin-bottom: 40px;
+         }
+         .line3 {
+            background: #005789;
+            width: 55%;
+            height: 1.8px;
+            margin-left: 10px;
+            }
+            .job-description {
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+               
+            }
+            .list-job {
+                display: flex;
+                flex-wrap: wrap;
+                margin-left: 10px;
+                font-size: 14px;
+                font-family: sans-serif;
+                }
+                .position {
+                    font-size: 10px;
+                }
+            
+            .job1 {
+                display: flex;
+                margin-bottom: 30px;
+            }
+            .job2 {
+                display: flex;
+                margin-bottom: 30px;
+            }
+            .job3 {
+                display: flex;
+                margin-bottom: 30px;
+            }
