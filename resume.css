@@ -78,6 +78,7 @@ padding-left: 10px;
     height: 11px;
 }
 .languages {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 30px;
