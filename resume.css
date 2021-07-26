@@ -231,6 +231,7 @@ margin-right: 20px;
                
             }
             .list-job {
+                display: inline-block;
                 margin-left: 10px;
                 font-size: 14px;
                 font-family: sans-serif;
